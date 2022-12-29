@@ -8,7 +8,7 @@ Place the shell script in your .local/bin folder and you can then call it from a
 
 ## Requirements
 
-HTML Server - Python
+HTML Server - Python  
 Sass Compiler - SASS
 
 At the end of the file, I've included a sass and HTML server script. These aren't really that important so you can remove them but if you choose to keep it you must have python and sass installed.
